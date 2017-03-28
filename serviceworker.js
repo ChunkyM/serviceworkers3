@@ -20,22 +20,22 @@ var CACHED_URLS = [
     'appimages/dino.png',
     'appimages/paddy.png',
     'appimages/jack.png',
-    'eventsimages/example-blog01.png',
-    'eventsimages/example-blog02.png',
-    'eventsimages/example-blog03.png',
-    'eventsimages/example-blog04.png',
-    'eventsimages/example-blog05.png',
-    'eventsimages/example-blog06.png',
-    'eventsimages/example-blog07.png',
-    'eventsimages/example-work01.png',
-    'eventsimages/example-work02.png',
-    'eventsimages/example-work03.png',
-    'eventsimages/example-work04.png',
-    'eventsimages/example-work05.png',
-    'eventsimages/example-work06.png',
-    'eventsimages/example-work07.png',
-    'eventsimages/example-work08.png',
-    'eventsimages/example-work09.png',
+    'eventsimages/example-blog01.jpg',
+    'eventsimages/example-blog02.jpg',
+    'eventsimages/example-blog03.jpg',
+    'eventsimages/example-blog04.jpg',
+    'eventsimages/example-blog05.jpg',
+    'eventsimages/example-blog06.jpg',
+    'eventsimages/example-blog07.jpg',
+    'eventsimages/example-work01.jpg',
+    'eventsimages/example-work02.jpg',
+    'eventsimages/example-work03.jpg',
+    'eventsimages/example-work04.jpg',
+    'eventsimages/example-work05.jpg',
+    'eventsimages/example-work06.jpg',
+    'eventsimages/example-work07.jpg',
+    'eventsimages/example-work08.jpg',
+    'eventsimages/example-work09.jpg'
     
 ];
 
@@ -75,6 +75,11 @@ self.addEventListener('activate', function(event) {
     })
   );
 });
+
+
+
+
+
 
 
 
