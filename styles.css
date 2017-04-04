@@ -234,3 +234,7 @@ img.article-image {
   background-position: center;
   background-image: url('appimages/offlinemap.jpg');
 }
+#map{
+    width: 100%;
+    height: 500px;
+}
