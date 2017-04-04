@@ -226,7 +226,7 @@ img.article-image {
   width: 100%;
 }
 
-#map-container.offline-map {
+#map.offline-map {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
